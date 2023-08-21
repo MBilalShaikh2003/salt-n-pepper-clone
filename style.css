@@ -1,0 +1,196 @@
+.one{
+    height: 70px;
+    padding-left: 30px;
+}
+.navbar{
+    height: 100px;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+
+}
+.navflex{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    align-items: first baseline;
+    color: white;
+    padding: 15px 100px;
+
+}
+body{
+    margin: 0px;
+    
+}
+.btn1{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+}
+.btn2{
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+
+}
+.main{
+    width: 100%;
+}
+.down{
+    background-color: black;
+    padding: 20px;
+    
+    
+}
+.para1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+.para2{
+    color: white;
+    margin-top: -60px;
+    font-size: 70px;
+    text-align: center;
+}
+.para3{
+    color: white;
+    text-align: center;
+    margin-top: -60px;
+
+}
+.below{
+    
+    display:flex;
+    padding: 30px;
+    justify-content:center;
+}
+.belowimg{
+    background-color: white;
+    padding: 20px;
+    
+}
+.belowimg2{
+    background-color: white;
+    padding: 20px;
+    
+}
+.belowimg3{
+    background-color: white;
+    padding: 20px;
+    
+}
+.bbtn{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    border-radius: 30px;
+    padding: 15px;
+}
+.maindiv{
+    background-color: rgba(0, 0, 0, 0.932);
+    width: 100%;
+    padding: 100px;
+}
+
+.para4{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+.para5{
+    color: white;
+    margin-top: -60px;
+    font-size: 70px;
+    text-align: center;
+}
+.para6{
+    color: white;
+    text-align: center;
+    margin-top: -60px;
+}
+.subdiv{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.subdiv2{
+    display: flex;
+    
+    justify-content: center;
+    justify-content: space-between;
+}
+
+
+.para7{
+    color: red;
+    text-align: center;
+}
+.para8{
+    color: white;
+    text-align: center;
+}
+.para9{
+    color: white;
+    text-align: center;
+}
+.para10{
+    color:white;
+    text-align: center;
+}
+.bbtn2{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 20px;
+    
+}
+.subb{
+    padding-right: 500px;
+}
+.subbb{
+    padding-right: 150px;
+}
+subbbb{
+    padding-left: 300px;
+}
+.bbtn3{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 20px;
+       
+}
+.maindiv2{
+    background-color: black;
+    width: 100%;
+    padding: 100px;
+}
+.para11{
+    text-align: center;
+    color: white;
+    margin-top: -40px;
+    font-size: 50px;
+}
+.end{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.endd{
+    display: flex;
+    justify-content: center;
+    
+    
+}
